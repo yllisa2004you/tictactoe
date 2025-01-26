@@ -10,5 +10,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`server is listening at localhost: 3000`);
+  console.log(`server is listening at localhost: 80`);
 });
